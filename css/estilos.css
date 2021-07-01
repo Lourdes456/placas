@@ -1,0 +1,36 @@
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+#menu a{
+    font-size: 10px;
+    font-weight: bold;
+    color: #3f3f3f;
+}
+
+#menu button{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#menu input{
+    font-size: 12px;
+}
+
+.carousel-inner{
+    max-height: 28rem;
+}
+
+footer{
+    background: #3f3f3f;
+    min-height: 100px;
+}
+
+#iconos {
+    font-size: 30px;
+    padding: 0 8px;
+    color: #f3f3f3;
+}
